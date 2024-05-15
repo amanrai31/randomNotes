@@ -1,4 +1,4 @@
-## Github
+## Github (git stash and git stash pop)
 Suppose I am on main branch and i want the changes done by me on main branch to be transfered on some other branch, then-
 - On main branch (or whatever branch it is i.e.- first branch)--- git stash
 - Change your branch (go to the second one)
