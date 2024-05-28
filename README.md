@@ -84,4 +84,4 @@ Learn how to contribute to our documentation.
 Get started developing plugins for Grafana.
 Look through the resources in the contribute folder.
 
-- link of this page- <a href="https://github.com/grafana/grafana/blob/HEAD/CONTRIBUTING.md" />
+- link of this page- <a href="https://github.com/grafana/grafana/blob/HEAD/CONTRIBUTING.md"> Grafana contri link </a>
