@@ -86,7 +86,7 @@ Look through the resources in the contribute folder.
 
 - link of this page- <a href="https://github.com/grafana/grafana/blob/HEAD/CONTRIBUTING.md"> Grafana contri link </a>
 
-
+# VSCode help
 [ Relaod window in VSCode- (ctrl + p) then (>re) ]
 
 [ git confing (for differnt emails- (install extension - git config) then (ctrl + e) then (set config) then (provide details i.e. username & email)]
