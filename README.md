@@ -11,12 +11,12 @@ Suppose I am on main branch and i want the changes done by me on main branch to 
 
 
 # Grafana contribution page example-
-Contributing to Grafana
+## Contributing to Grafana
 Thank you for your interest in contributing to Grafana! We welcome all people who want to contribute in a healthy and constructive manner within our community. To help us create a safe and positive community experience for all, we require all participants to adhere to the Code of Conduct.
 
 This document is a guide to help you through the process of contributing to Grafana.
 
-Become a contributor
+### Become a contributor
 You can contribute to Grafana in several ways. Here are some examples:
 
 Contribute to the Grafana codebase.
@@ -29,7 +29,7 @@ Please note: We do not currently accept contributions for translations. Please d
 
 For more ways to contribute, check out the Open Source Guides.
 
-Report bugs
+#### Report bugs
 Before submitting a new issue, try to make sure someone hasn't already reported the problem. Look through the existing issues for similar issues.
 
 Report a bug by submitting a bug report. Make sure that you provide as much information as possible on how to reproduce the bug.
@@ -45,28 +45,28 @@ For a dashboard related issues:
 Dashboard JSON can be found in the dashboard settings JSON model view
 For authentication and alerting Grafana server logs are useful.
 
-Security issues
+#### Security issues
 If you believe you've found a security vulnerability, please read our security policy for more details.
 
-Suggest enhancements
+#### Suggest enhancements
 If you have an idea of how to improve Grafana, submit a feature request.
 
 We want to make Grafana accessible to even more people. Submit an accessibility issue to help us understand what we can improve.
 
-Write documentation
+### Write documentation
 To edit or write technical content, refer to Contribute to our documentation. We welcome your expertise and input as our body of technical content grows.
 
-Triage issues
+#### Triage issues
 If you don't have the knowledge or time to code, consider helping with issue triage. The community will thank you for saving them time by spending some of yours.
 
 Read more about the ways you can Triage issues.
 
-Answering questions
+#### Answering questions
 If you have a question and you can't find the answer in the documentation, the next step is to ask it on the community site.
 
 It's important to us to help these users, and we'd love your help. Sign up to our community site, and start helping other Grafana users by answering their questions.
 
-Your first contribution
+#### Your first contribution
 Unsure where to begin contributing to Grafana? Start by browsing issues labeled beginner friendly or help wanted.
 
 Beginner-friendly issues are generally straightforward to complete.
@@ -75,11 +75,13 @@ If you're looking to make a code change, see how to set up your environment for 
 
 When you're ready to contribute, it's time to create a pull request.
 
-Contributor License Agreement (CLA)
+#### Contributor License Agreement (CLA)
 Before we can accept your pull request, you need to sign our CLA. If you haven't, our CLA assistant prompts you to when you create your pull request.
 
-Where do I go from here?
+#### Where do I go from here?
 Set up your development environment.
 Learn how to contribute to our documentation.
 Get started developing plugins for Grafana.
 Look through the resources in the contribute folder.
+
+- link of this page- <a href="https://github.com/grafana/grafana/blob/HEAD/CONTRIBUTING.md" />
