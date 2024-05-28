@@ -88,4 +88,5 @@ Look through the resources in the contribute folder.
 
 
 [ Relaod window in VSCode- (ctrl + p) then (>re) ]
+
 [ git confing (for differnt emails- (install extension - git config) then (ctrl + e) then (set config) then (provide details i.e. username & email)]
