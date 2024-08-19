@@ -5,6 +5,10 @@
 
 ### CURL (http methods, URL, header, body)
 
+1. `fileName!:string` - Filename is not nullable.
+2. `createdAt?: Date` - this prop is optional.
+
+
 # Grafana contribution page example-
 ## Contributing to Grafana
 Thank you for your interest in contributing to Grafana! We welcome all people who want to contribute in a healthy and constructive manner within our community. To help us create a safe and positive community experience for all, we require all participants to adhere to the Code of Conduct.
