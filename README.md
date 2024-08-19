@@ -8,6 +8,12 @@
 1. `fileName!:string` - Filename is not nullable.
 2. `createdAt?: Date` - this prop is optional.
 3. `const x=y??""` - is y is null/undefined then x = empty string, otherwise x=y.
+4. `export type SearchParams { [key:string]=string}` - key is string & its value is also string
+
+
+Note : If we use any react hook in nextJS app, we have to declear it as "useClient"
+Note : passing closeModel in props of react component to close a popUp
+   
 
 
 # Grafana contribution page example-
