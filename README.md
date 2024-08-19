@@ -14,6 +14,7 @@
 
 
 Note : If we use any react hook in nextJS app, we have to declear it as "useClient"
+
 Note : passing closeModel in props of react component to close a popUp
    
 
