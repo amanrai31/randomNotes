@@ -7,6 +7,7 @@
 
 1. `fileName!:string` - Filename is not nullable.
 2. `createdAt?: Date` - this prop is optional.
+3. `const x=y??""` - is y is null/undefined then x = empty string, otherwise x=y.
 
 
 # Grafana contribution page example-
