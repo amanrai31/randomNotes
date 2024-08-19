@@ -4,7 +4,9 @@
 - Authorization is the next step. Once a user's identity is confirmed, authorization decides what parts of the application they are allowed to use.
 
 ## CURL (http methods, URL, header, body)
+
 </hr>
+
 1. `fileName!:string` - Filename is not nullable.
 2. `createdAt?: Date` - this prop is optional.
 3. `const x=y??""` - is y is null/undefined then x = empty string, otherwise x=y.
