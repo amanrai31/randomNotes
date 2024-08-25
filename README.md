@@ -17,7 +17,8 @@ Note : If we use any react hook in nextJS app, we have to declear it as "useClie
 
 Note : passing closeModel in props of react component to close a popUp
    
-
+QUESTIONS(FEATURES)
+1. How to implement drag and drop in my application?
 
 # Grafana contribution page example-
 ## Contributing to Grafana
