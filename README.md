@@ -12,6 +12,11 @@
 3. `const x=y??""` - is y is null/undefined then x = empty string, otherwise x=y.
 4. `export type SearchParams { [key:string]=string}` - key is string & its value is also string
 
+</hr>
+- MongoDB server => DataBase software
+- Mongoose => command line tool to intract MongoDB
+- MongoDB Compass => GUI tool to intract MongoDB
+- MongoDB Atlas cloud based mongoDB service
 
 Note : If we use any react hook in nextJS app, we have to declear it as "useClient"
 
