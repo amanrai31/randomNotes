@@ -12,7 +12,7 @@
 3. `const x=y??""` - is y is null/undefined then x = empty string, otherwise x=y.
 4. `export type SearchParams { [key:string]=string}` - key is string & its value is also string
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 - MongoDB server => DataBase software.
 - Mongoose => command line tool to intract MongoDB.
