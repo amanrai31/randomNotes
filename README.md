@@ -56,7 +56,7 @@ QUESTIONS(FEATURES)
 3. Partials and Imports: Allows you to break your styles into smaller, more manageable files using partials and then import them into a main SCSS file. We can import one sccs file to other files.
 4. Nesting: SCSS allows you to nest CSS rules within one another, which can help to visually group related styles. 
 
-
+---
 
 # Grafana contribution page example-
 ## Contributing to Grafana
