@@ -30,34 +30,6 @@ Note : passing closeModel in props of react component to close a popUp
 QUESTIONS(FEATURES)
 1. How to implement drag and drop in my application?
 
----
-# scssVScss 
-
-#### SCSS (Sassy CSS) is a superset of CSS, meaning it extends CSS with additional features like variables, mixins, inheritance, nesting, and more.
-### To use SCSS - npm install -D sass
-
-1. Variables: We can reuse them-
-  ``` Typescript
-  $primary-color: #3498db;
-  .button {
-  background-color: $primary-color;
-```
-
-2. Mixins: Allows you to define reusable blocks of styles called mixins. (We can consider them as CSS function blocks)
-``` Typescript
-@mixin border-radius($radius) {
-  border-radius: $radius;
-}
-
-.button {
-  @include border-radius(5px);
-}
-```
-3. Partials and Imports: Allows you to break your styles into smaller, more manageable files using partials and then import them into a main SCSS file. We can import one sccs file to other files.
-4. Nesting: SCSS allows you to nest CSS rules within one another, which can help to visually group related styles. 
-
----
-
 # Grafana contribution page example-
 ## Contributing to Grafana
 Thank you for your interest in contributing to Grafana! We welcome all people who want to contribute in a healthy and constructive manner within our community. To help us create a safe and positive community experience for all, we require all participants to adhere to the Code of Conduct.
