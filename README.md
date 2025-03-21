@@ -36,3 +36,7 @@ QUESTIONS(FEATURES)
 [ Relaod window in VSCode- (ctrl + p) then (>re) ]
 
 [ git confing (for differnt emails- (install extension - git config) then (ctrl + e) then (set config) then (provide details i.e. username & email)]
+
+---
+
+To connect remote system(VM) - `ssh -i ./id-rsa ubuntu@10.143.111.202` => `ssh -i <path of key> <VMusername>@<vmIP>`
