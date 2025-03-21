@@ -17,7 +17,7 @@
 ---
 
 - MongoDB server => DataBase software.
-- Mongoose => command line tool to intract MongoDB (Prisma is for pgSQL).
+- Mongoose => command line tool to intract MongoDB (Prisma is for pgSQL). Express connects to mongoDB using mongoose
 - MongoDB Compass => GUI tool to intract MongoDB.
 - MongoDB Atlas cloud based mongoDB service
 
