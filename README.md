@@ -43,7 +43,7 @@ To connect remote system(VM) - `ssh -i ./id-rsa ubuntu@10.143.111.202` => `ssh -
 
 ---
 
-Redis uses *in memory (RAM)* data storage. Traditional DB uses Disk storahe (ssd || hdd)
+Redis uses  *key-value, in-memory (RAM)* data storage. Traditional DB uses Disk storahe (ssd || hdd).
 
 Order => register(0.3ns), L1 cache(0.9ns),L2 cache(2.8ns),L3 cache(12.9ns), RAML1 cache(120ns), SSD(50-150 US), HDD(1-10ms)
 It is used as => 
@@ -51,3 +51,4 @@ It is used as =>
 2. use as database (sutable for real time processing and storage)
 3. use as message broker (for real time messaging needs)
 
+Redis uses Hash table which has time complexcity of O(1), if you search value using key. Redis also use single threded event loop model
