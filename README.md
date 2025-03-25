@@ -43,7 +43,8 @@ To connect remote system(VM) - `ssh -i ./id-rsa ubuntu@10.143.111.202` => `ssh -
 
 ---
 
-Redis uses *in memory (RAM)* data storage. 
+Redis uses *in memory (RAM)* data storage. Traditional DB uses Disk storahe (ssd || hdd)
+
 Order => register(0.3ns), L1 cache(0.9ns),L2 cache(2.8ns),L3 cache(12.9ns), RAML1 cache(120ns), SSD(50-150 US), HDD(1-10ms)
 It is used as => 
 1. cache(ideal for fast access to temp. data)
