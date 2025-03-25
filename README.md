@@ -40,3 +40,13 @@ QUESTIONS(FEATURES)
 ---
 
 To connect remote system(VM) - `ssh -i ./id-rsa ubuntu@10.143.111.202` => `ssh -i <path of key> <VMusername>@<vmIP>`
+
+---
+
+Redis uses *in memory (RAM)* data storage. 
+Order => register(0.3ns), L1 cache(0.9ns),L2 cache(2.8ns),L3 cache(12.9ns), RAML1 cache(120ns), SSD(50-150 US), HDD(1-10ms)
+It is used as => 
+1. cache(ideal for fast access to temp. data)
+2. use as database (sutable for real time processing and storage)
+3. use as message broker (for real time messaging needs)
+
