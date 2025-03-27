@@ -52,3 +52,14 @@ It is used as =>
 3. use as message broker (for real time messaging needs)
 
 Redis uses Hash table which has time complexcity of O(1), if you search value using key. Redis also use single threded event loop model
+
+----
+
+### Where to deploy project
+
+- Frontend (next/angular) => Deploy on *vercel*(import & deploy git repo) => 100GB/month
+
+- NODE + express Backend => Build APIs(scalable, otp, auth), push on seperate git repo, Link to *Render* & deploy (512MB RAM, 100k req/month, sleep agter 15minutes, take 10sec to wake) || TRY Heroku, cyclic,railway, degitalOcean, AWS.
+
+- PgSQL => deploy on *supabase* (500MB, 2gb bandwith, unlimites API call, pause after 1 week of inactivity, wakes instantly)
+
